@@ -6,4 +6,8 @@ echo and so on
 echo till
 date
 echo God help Nigeria
-echo landcruiser just came in from auto remax
+echo landcruiser just came in from auto rema
+lets save the last ride
+sxmax
+echo gulith
+echo press
